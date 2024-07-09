@@ -1,3 +1,5 @@
 Hola Mundo
 
 Texto para codificacion
+
+Texto para diagramas
